@@ -27,9 +27,14 @@ p.mail {
 }
 .places a {
     text-align: center;
+    letter-spacing: 10px;
     text-decoration: none;
 }
-img: hover {
-    width: 70px;
-    height: 70px;
+.places img {
+    width: 65px;
+    height: 65px;
+}
+.places img:hover {
+    width: 95px;
+    height: 95px;
 }
