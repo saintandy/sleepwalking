@@ -4,33 +4,33 @@ body {
 }
 
 p.hello {
-    font-family: "Chalkboard";
+    font-family: "Trebuchet MS";
     color: #f92672;
     text-align: center;
-    font-size: 42px;
+    font-size: 46px;
 }
 p.find {
-    font-family: "Chalkboard";
+    font-family: "Trebuchet MS";
     color: #66d9ef;
     text-align: center;
-    font-size: 38px;
+    font-size: 44px;
 }
 p.mail {
-    font-family: "Chalkboard";
+    font-family: "Trebuchet MS";
     color: #87ff00;
     text-align: center;
-    font-size: 36px;
+    font-size: 32px;
 }
 
 .places {
-    font-family: "Chalkboard";
-    font-size: 28px;
+    font-family: "Trebuchet MS";
+    font-size: 32px;
     color: #ff8700;
     text-align: center;
     text-decoration: none;
 }
 .places a {
-    font-family: "Chalkboard";
+    font-family: "Trebuchet MS";
     font-size: 28px;
     color: #ff8700;
     text-align: center;
